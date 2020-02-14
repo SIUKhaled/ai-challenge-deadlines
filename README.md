@@ -10,6 +10,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
+| <sub>Aug, 2020</sub>  | <sub>Call for Book Chapter Deep Learning and Big Data for Intelligent Transportation:Enabling Technologies and Future Trends</sub> | <sub>[DLBDIT](https://www2.cs.siu.edu/~kahmed/downloads//BookChapter_CFP.pdf)</sub> | <a href="https://www2.cs.siu.edu/~kahmed/downloads//BookChapter_CFP.pdf">:scroll:</a> | 
 | <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19: Perfect Half Million Beauty Product Image Recognition Challenge</sub> | <sub>[perfect19](https://challenge2019.perfectcorp.com/)</sub> | <a href="https://hub.docker.com/u/aimeetsbeauty">:scroll:</a> |
 | <sub>Fev., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19: Grand Challenge on Medical Multimedia</sub> | <sub>[biomedia19 :moneybag:](https://github.com/kelkalot/biomedia-2019/wiki)</sub> | <a href="https://github.com/kelkalot/biomedia-2019">:scroll:</a> |
 | <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19:MediaEval Tasks </sub> | <sub>[mediaeval19 :moneybag:](http://www.multimediaeval.org/mediaeval2019/)</sub> | <a href="http://ceur-ws.org/Vol-2283/">:scroll:</a> |
